@@ -2210,3 +2210,36 @@ Entries:
         type: Fix}
     time: '2024-08-13T18:21:15Z'
     id: 239
+  - author: Котя
+    changes:
+      - {message: Исправлено проигрывание барков на дальних дистанциях, type: Fix}
+      - {message: Исправлена видимость призраков при галлюцинациях, type: Fix}
+      - {message: Исправлены пустые сообщения, type: Fix}
+    time: '2024-08-14T14:37:39Z'
+    id: 240
+  - author: Котя
+    changes:
+      - {message: Исправлен спавн КПБ без ключей шифрования, type: Fix}
+    time: '2024-08-14T14:38:48Z'
+    id: 241
+  - author: Darki255
+    changes:
+      - {message: 'Добавлены рога, кастомизация', type: Add}
+    time: '2024-08-14T20:49:52Z'
+    id: 242
+  - author: FaDeOkno
+    changes:
+      - {message: Фикс языков фантома, type: Fix}
+    time: '2024-08-15T10:43:24Z'
+    id: 243
+  - author: KashRas2
+    changes:
+      - {message: 'Временно отключил ттс у вендоматов, чтоб зря не нагружали наши
+          4 запроса в секунду.', type: Tweak}
+    time: '2024-08-15T20:09:22Z'
+    id: 244
+  - author: FaDeOkno
+    changes:
+      - {message: Фикс галлюцинаций фантома, type: Fix}
+    time: '2024-08-15T20:10:03Z'
+    id: 245
